@@ -9,5 +9,6 @@ erste Uebung mit GitHub für GEO 77 an der Universität Tübingen
 <table>
     <tr>
         <td>Geo 77</td>
+		<td>Uebung 07</td>
     </tr>
 </table>
